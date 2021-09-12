@@ -19,3 +19,58 @@
     cursor: pointer;
     border-color: white;
 }
+.cat-1, .cat-2, .cat-3{
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+.cat-1{
+    background-color: #ffa500;
+}
+.cat-2{
+    background-color: #da70d6;
+}
+.cat-3{
+    background-color: #0000ff;
+}
+.categories h1{
+    color: white;
+}
+.categories img{
+    width: 120px;
+}
+.buy-shoes-button{
+    color: white;
+    background-image: linear-gradient(to bottom, #ff136f 0%, #ff136f 100%);
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+    border-color: white;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+#subscribe{
+    height: 300px;
+    width: 1300px;
+    background-color: #fceae8;
+    border-radius: 5px;
+    position: relative;
+    text-align: center;
+    padding-top: 80px;
+}
+#subscribe h6{
+    color: gray;
+}
+#sub{
+    height: 300px;
+}
+footer{
+    text-align: center;
+    height: 0%;
+}
